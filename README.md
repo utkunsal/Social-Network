@@ -1,1 +1,1 @@
-# Social-Network
+# Python Assignment Social Network
