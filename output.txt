@@ -1,0 +1,28 @@
+Welcome to Assignment 3
+-------------------------------
+ERROR: Wrong input type! for 'ANU'! -- This user already exists!!
+User 'Sandy' has been added to the social network successfully
+ERROR: Wrong input type! for 'DEU'!--There is no user named 'Thomas'!!
+User 'Andy' and his/her all relations have been deleted successfully
+ERROR: Wrong input type! for 'ANF'! -- No user named 'Quinn' found!!
+ERROR: Wrong input type! for 'ANF'! -- No user named 'Quinn' and 'Thomas' found!
+ERROR: A relation between 'Dacey' and 'Ryan' already exists!!
+Relation between 'Otello' and 'Sandy' has been added successfully
+ERROR: Wrong input type! for 'DEF'! -- No user named 'Alice' found!!
+ERROR: Wrong input type! for 'DEF'! -- No user named 'Alice' and 'Quinn' found!
+ERROR: No relation between 'Ken' and 'Tom' found!!
+Relation between 'Betty' and 'Dacey' has been deleted successfully
+ERROR: Wrong input type! for 'CF'! -- No user named 'Michael' found!!
+User 'Tom' has 5 friends
+ERROR: Wrong input type! for 'FPF'! -- No user named 'Sam' found!!
+User 'Camila' has 17 possible friends when maximum distance is 2
+These possible friends: {'Betty' ,'Dacey' ,'Emily' ,'Frida' ,'George' ,'Hailey' ,'Ian' ,'John' ,'Ken' ,'Lou' ,'Mary' ,'Nadia' ,'Otello' ,'Paul' ,'Ryan' ,'Sandy' ,'Tom'}
+ERROR: Wrong input type! for 'SF'! -- No user named 'Alex' found!!
+ERROR: Mutuality Degree cannot be less than 1 or greater than 4
+Suggestion List for 'Camila' (when MD is 2):
+'Camila' has 2 mutual friends with 'Lou'
+'Camila' has 3 mutual friends with 'Paul'
+The suggested friends for 'Camila': 'Lou', 'Paul'
+Suggestion List for 'Camila' (when MD is 3):
+'Camila' has 3 mutual friends with 'Paul'
+The suggested friends for 'Camila': 'Paul'
